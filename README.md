@@ -338,7 +338,7 @@
 
   ## 3.线性表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-07_212658.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-07_212658.jpg)
 
   - 线性结构是一个数据元素的有序（次序）集  位置次数上有序而不是数据大小顺序上有序
   - 线性结构基本特性:
@@ -469,11 +469,11 @@
 
   假设在第 i  个元素之前插入的概率为 Pi 则在长度为 n 的线性表中插入的一个元素所需移动的元素次数的期望值
 
-  ![](/eshmarry/dong_markdown/blob/master/img/线性插入平均移动元素值.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/线性插入平均移动元素值.jpg)
 
   - 在线性表中删除数据  考虑平均情况
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-06_211925.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-06_211925.jpg)
 
   c语言数组也可以进行演示
 
@@ -571,9 +571,9 @@
   >
   > - 链式改进线性表   两组数组归并
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-07_203043.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-07_203043.jpg)
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-07_203124.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-07_203124.jpg)
 
   #### 二、其他形式链表
 
@@ -606,23 +606,23 @@
 
   ### 3.4一元多项式的表示
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-07_205229.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-07_205229.jpg)
 
   - 不只是存系数，而且还要存未知数的指数
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-07_205512.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-07_205512.jpg)
 
   ## 4.栈和队列
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_220740.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_220740.jpg)
 
   栈顶出入数据   **后进先出**
 
   ### 4.1栈的类型定义
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-07_213429.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-07_213429.jpg)
 
   基本操作：
 
@@ -709,13 +709,13 @@
   >
   > ​        putchar(*s++)
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-08_211729.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-08_211729.jpg)
 
   #### 4.2.4迷宫求解：
 
   > 通常是使用“穷举求解方法”
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-08_212555.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-08_212555.jpg)
   >
   > - 基本思路
   >
@@ -723,9 +723,9 @@
   > 2. 若当前位置不可通，则后退，换向探索
   > 3. 若四周均不同通，则从路径中删除
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-08_214154.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-08_214154.jpg)
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-08_214411.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-08_214411.jpg)
 
   #### 4.2.5 表达式求值：
 
@@ -749,7 +749,7 @@
   >
   > 可见运算符所在位置不同命名也不同
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_193017.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_193017.jpg)
   >
   > - 结论：
   >
@@ -765,7 +765,7 @@
   >
   > ​      先找运算符，再找操作数
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_200315.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_200315.jpg)
 
   - 注意i： 一中的操作数栈为运算符栈
 
@@ -801,7 +801,7 @@
 
   汉诺塔：
 
-     ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_212345.jpg)
+     ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_212345.jpg)
 
   ​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
@@ -832,17 +832,17 @@
 
   - 栈和队列都是一种线性表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_213639.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_213639.jpg)
 
   队头删除，队尾添加
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_213803.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_213803.jpg)
 
   ### 4.4 队列类型的实现
 
   #### 4.4.1 链队列--链式映象
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_214424.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_214424.jpg)
 
   队头指针指向的是队头元素的前一个结点，队尾指针指的是队尾元素
 
@@ -852,7 +852,7 @@
 
   #### 4.4.2 循环队列--顺序映象
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_215500.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_215500.jpg)
 
   有三个状态：  队头队尾都有可能浮动，栈只有栈顶在的浮动
 
@@ -865,7 +865,7 @@
 
   循环队列空   队尾指针 = 队头指针
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-09_220253.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-09_220253.jpg)
 
   问题   理发座位，排队
 
@@ -877,7 +877,7 @@
 
   ## 5 串
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_201130.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_201130.jpg)
 
   - 在程序中是以变量的形式出现的
   - 串就是将数据元素限定为字符的线性表
@@ -916,15 +916,15 @@
 
   ​      StrInsert(&S,pos,T)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_194006.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_194006.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_194334.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_194334.jpg)
 
   - 例如利用串的比较，求串长和求子串等操作实现定位函数Index
 
   > 基本思想：在主串S中取从第i（i的处置为pos）个字符起，长度和串T相等的字串和串T比较，若相等，则求得函数值为i，否则i值增1直至串S中不存在和串T想的的子串位置
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_201610.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_201610.jpg)
   >
   > 注意：这个地方的什么时候是该比较循环的结束呢，是（n-m+1）
 
@@ -981,13 +981,13 @@
 
   - 存储密度问题
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_210246.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_210246.jpg)
 
   > 就是用一个块链结点存储一个只有一个字符的数据时，数据域占一个字节，指针域占四个字节，数据域只为整个结点大小的1/5，不值得
   >
   > 存储密度 = 数据域字长  /  整个节点的字长
 
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_210954.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_210954.jpg)
 
   #### 5.3 串的模式匹配（子串定位函数）
 
@@ -1007,7 +1007,7 @@
 
   ##### 5.3.1 简单算法(朴素的算法)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_212455.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_212455.jpg)
 
   O(S.length*T.length)
 
@@ -1018,9 +1018,9 @@
   - 再比较模式串的最后一个字符
   - 最后比较模式串中从第二个到第n-1个字符
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_213915.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_213915.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_214144.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_214144.jpg)
 
   - 那如果倒数第二是经常不一样的，怎么办？
 
@@ -1028,9 +1028,9 @@
 
   - 该算法时间发咋读可以达到O（m+n）  解决了指针回溯问题
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_220227.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_220227.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-10_220255.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-10_220255.jpg)
 
   - 思想，主串和模式字串比较的时候，存在一个长串，主串和模式串的部分相等，再Si和Tj位置不相同时，因为模式串的Tj-k+1到Tj-1与主串的si-k+1 ----Si-1相同（T1到Tj-1和Si-j+Si-1
   - 都是相同的，但是要重新移动T进行匹配），你要找移位模式串，和主串重新匹配也就是说要重定义一个位置再T中使Si-k+1到Si-1位置上相同也就是和T未移动的时候T1到Tk-1要相同
@@ -1050,7 +1050,7 @@
   1. 求出模式串的next数组，将模式串与主串进行比较，比较多个后出现不同，则查找相同位置上的next数组，查看next值，进行移动模式串，如果值为3，就是移动模式的第三个位置与该不匹配的位置相对应，然后进行比较
   2. 如果比较到主串和模式串的第一个不等，next数组该位置为0，则需要主串移位与模式串比较
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_181906.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_181906.jpg)
 
   如何求去模式串的next函数值  是一个递推的过程
 
@@ -1058,27 +1058,27 @@
   - 假设：next[j] = k;又T[j] = T[k]
   - 则：next[j+1]  = k+1 
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_185745.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_185745.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_193254.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_193254.jpg)
 
   - 特殊情况：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_194015.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_194015.jpg)
 
   1. 在模式串中求取next数组，一个为i=值 一个为j=i+1，则查看next[j]的值，结果在模式串索引为next[j]模式串的值和第j值相同
 
   - 更新
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_200950.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_200950.jpg)
 
   ## 6.数组和广义表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_190615.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_190615.jpg)
 
   ### 6.1 数组的类型定义
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_201804.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_201804.jpg)
 
   线性结构
 
@@ -1086,7 +1086,7 @@
 
   基本操作：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_210631.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_210631.jpg)
 
   - value：方法根据下表找元素
   - Assign：方法 给指定下标赋值
@@ -1108,7 +1108,7 @@
 
   1. 以行序为主（低下标优先）
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_213736.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_213736.jpg)
 
   先以第三行开始：三个数组，下标索引分别为（2，3，2）
 
@@ -1134,13 +1134,13 @@
 
   二维
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_215038.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_215038.jpg)
 
   - b2是指每一行元素个数
 
   推广到多维：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_215246.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_215246.jpg)
 
   ### 6.3 稀疏矩阵的压缩存储
 
@@ -1157,7 +1157,7 @@
 
   - 解决：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-18_220321.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-18_220321.jpg)
 
   - 方法：
 
@@ -1171,26 +1171,26 @@
 
      （1）三元组顺序表
 
-  ​         ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_184512.jpg)
+  ​         ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_184512.jpg)
 
   - 像这样存入地址和数值，并存入行列式的一些基本信息，这个叫三元组顺序表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_184657.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_184657.jpg)
 
   - mu 行号，nu 列号，tu 非零元素
   - 实现了不存零元素，但是能否实现计算呢
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_185239.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_185239.jpg)
 
   - 顺序影像上完成专置 运算
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_190639.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_190639.jpg)
 
   - 1. 顺序表中的第一个为 1 2 3 时以为转置为2 1  3肯定是二开头的第一个，所以要找M表中第二位数据为1的个数N，然后将其插入N+1的位置上
 
     
 
-    ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_191714.jpg)
+    ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_191714.jpg)
 
     为了方便转置，创建上表，第一行为M表的列，NUM表示列值为这个数的个数，cPot是值为这个数的第一个存放在T中的位置
 
@@ -1198,7 +1198,7 @@
 
     在该列数值上+1
 
-    ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_192721.jpg)
+    ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_192721.jpg)
 
   - 这是方便的，但是我想找随即一行的非零元素是很麻烦的
 
@@ -1206,22 +1206,22 @@
 
   （2 ）行逻辑连接的顺序表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_193406.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_193406.jpg)
 
   改为
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_193741.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_193741.jpg)
 
   - 在该顺序表中，M表中列的不同数值的第一个的索引
   - 以矩阵相乘为例
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_194216.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_194216.jpg)
 
   - 问题所在：计算完了之后要按照稀疏矩阵三元组排列好在顺序表中
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_194517.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_194517.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_211941.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_211941.jpg)
 
   只要第一个矩阵的列号与第二个矩阵的行号相乘相加
 
@@ -1234,19 +1234,19 @@
   > 3. 指针 p 指 到行列式A的顺序映象地址上，然后取出该地址的列地址 i与值a1，在第二个表中的行值地址表上q指针找到对应 i 值的首地址并取出该位置上的值b1和列的值j，计算a1与b1，然后将值存入与j相同的暂存寄存器中，
   > 4. 计算完A第一个与B中的第一个后，通过过行值地址表看相对映的值下一个的地址是否是对一次相对的地址值+1，如果不是，则p指针不动，q指针往下移动，p指针指的位置进行计算，将值存入B列的相对应的行值地址表中，若果是，则A的p指针下移，如果行值与上一个不相同，则暂存寄存器的值计算出结果，行由A的行值决定，列以暂存寄存器编号决定，存入C的顺序表中
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_212131.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_212131.jpg)
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_212312.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_212312.jpg)
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_212427.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_212427.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-19_213427.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-19_213427.jpg)
 
   上面我们得到的矩阵都是新建立的，没有元素的移动，如果在计算的时候插入几个非零元，表现形式有变化了，若果是做两个矩阵相加，将A、B两个矩阵结果加到A上，而不是新建一个，由改成链式
 
   **（3）十字链表**
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_175639.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_175639.jpg)
 
   - 同一行用一个指针，同一列也用一个指针
   - 行列指针的头指针放在一个一维数组中
@@ -1258,29 +1258,29 @@
 
   - 广义表是特殊的线性结构
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_194608.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_194608.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_195048.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_195048.jpg)
 
   - 原子：只有单个元素
   - 子表：还是一个广义表
   - 空表：长度为零  深度为1  A = （）
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_195734.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_195734.jpg)
 
   ### 6.5 广义表的表示方法
 
   - 构造存储结构
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_201227.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_201227.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_201321.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_201321.jpg)
 
   - 广义表表头是是一个原子结点，表尾是一个广义表结点
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_201642.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_201642.jpg)
   - 第二种构造方法
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_201932.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_201932.jpg)
 
    
 
@@ -1288,17 +1288,17 @@
 
   ### 6.6 广义表操作的递归函数
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_202300.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_202300.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_202344.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_202344.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_202549.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_202549.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_203006.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_203006.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_203652.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_203652.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_204256.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_204256.jpg)
 
   例题1：求广义表的深度：
 
@@ -1306,7 +1306,7 @@
 
   **空表深度为1，原子深度为0**
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_204625.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_204625.jpg)
 
   
 
@@ -1314,17 +1314,17 @@
 
   例题2：复制广义表：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_192045.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_192045.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_192109.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_192109.jpg)
 
   例题3：创建广义表的存储结构：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_192533.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_192533.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_193137.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_193137.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_193242.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_193242.jpg)
 
   
 
@@ -1332,42 +1332,42 @@
 
   - 算法 删除单链表中所有值为x的数据元素（与广义表删除结点相对比）
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_200919.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_200919.jpg)
 
   广义表的就是广义的线性表、
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_201135.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_201135.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_201513.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_201513.jpg)
 
   - 看清广义表图样子，如果删除的是原子，就是删除的是两个结点，一个是该广义表头一个子表的头结点
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_202432.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_202432.jpg)
 
   - if
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_202808.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_202808.jpg)
 
   - else
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-31_202927.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-31_202927.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_194409.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_194409.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_194856.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_194856.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_195616.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_195616.jpg)
 
   - 函数写成单支树是没必要的 1. 递归深度深，2.占存储是非常大的
   - F1 = 1   F0 = 0     Fn = F（n-1）+F（n-2）  n>= 2,求F7   不能用递归，重复节点太多
 
   递归式从上往下，递推是从下往上
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_200358.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_200358.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_200752.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_200752.jpg)
 
   
 
@@ -1379,37 +1379,37 @@
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_200531.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_200531.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_200618.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_200618.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_200737.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_200737.jpg)
 
   - 广义表是线性结构
   - 树型结构 
 
   ### 7.1树的类型定义
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_191606.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_191606.jpg)
 
   是有向的，有前驱后继
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_192650.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_192650.jpg)
 
   
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_194254.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_194254.jpg)
 
   - 树深度：树中叶子结点所在最大层次
   - 树的基本操作：查找、插入、删除
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_194558.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_194558.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_194902.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_194902.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_195042.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_195042.jpg)
 
   
 
@@ -1420,40 +1420,40 @@
 
   有序树和无序树的区别？子树之间是否存在次序关系（默认为无序树）
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_200946.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_200946.jpg)
 
   - 以上这两棵树，在无序下是等同的，因为子树相同只是无需
   - 线性结构与树结构区别
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_201237.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_201237.jpg)
 
   
 
   ### 7.2 二叉树的类型定义
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_201506.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_201506.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-20_201831.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-20_201831.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_205448.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_205448.jpg)
 
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_205554.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_205554.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_210004.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_210004.jpg)
 
   - 两类特殊的二叉树：
 
   1. 满二叉树：指的是深度为K且含有2^K-1个节点的二叉树（不存在度为1的结点，叶子节点只有最后一层是）
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_212237.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_212237.jpg)
 
   完全二叉树，就是在满二叉树上进行行上编号，进行1-n排列，不管n怎么取，都是按照满二叉树进行编号取得
 
   下取整：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_212809.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_212809.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_194932.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_194932.jpg)
 
   - 二叉树是从从上到下且从左到有右进行的1至n的编号
   - 若 i -1 则该结点时二叉树的根，，编号i/2的结点为双亲结点
@@ -1463,11 +1463,11 @@
 
   #### 7.3.1二叉树的顺序存储表示
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_195907.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_195907.jpg)
 
   - 怎样将层次的关系，用一维数组来表示
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_200159.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_200159.jpg)
 
   - 通过性质五是可以计算的
 
@@ -1475,17 +1475,17 @@
 
   1. 二叉链表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_203316.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_203316.jpg)
 
   ​        让双亲信息隐含在内
 
   2. 双亲链表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_210104.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_210104.jpg)
 
   创建一个BPTNode，存取信息，该节点的数据，父节点位置，是左孩子还是右孩子标志
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_212748.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_212748.jpg)
 
   
 
@@ -1499,19 +1499,19 @@
 
   ### 7.4 二叉树的遍历
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_213011.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_213011.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_213127.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_213127.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_213536.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_213536.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_213629.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_213629.jpg)
 
   - 算法递归的描述：
 
     先序遍历
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_215300.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_215300.jpg)
 
   
 
@@ -1519,25 +1519,25 @@
   - 中序遍历，先访问根结点
 
   1. 先访问根（访问记输出）节点，判断A是否右左子树，有的话，将A点存入栈中，然后继续下访问 B ，无左子树，不存入栈中，继续访问C，C有左子树存入栈中，继续访问D，D无左子树，不入栈，，现在开始栈的弹出操作，先是C，然后访问C的右结点，无继续弹栈，然后访问A
-  2. ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_221426.jpg)
+  2. ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_221426.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-22_221513.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-22_221513.jpg)
 
   ##### 遍历二叉树的应用举例
 
-  1. ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_192645.jpg)
+  1. ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_192645.jpg)
   2. 求二叉树的深度
 
   - 左右子树最大深度+1
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_194629.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_194629.jpg)
 
   
 
   3. 复制二叉树：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_195104.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_195104.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_195257.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_195257.jpg)
 
   4 . 建立二叉树的存储结构
 
@@ -1545,13 +1545,13 @@
 
   ​         加上空格的先序序列的一个字符串；来 创建   A B C^ ^ ^DE^ ^ ^
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_200938.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_200938.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_201016.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_201016.jpg)
 
   （2）按给定的表达式构建相应的二叉树（直接根据表达式建树，而不是改变表达式再建树）
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_204518.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_204518.jpg)
 
   - 先缀表达式：是将运算符放在二个操作数之间，与先序遍历相结合 
   - 那如何创建呢
@@ -1560,11 +1560,11 @@
 
   2. 中缀表达式构建二叉树：通过结合两个栈，一个运算符栈，一个操作数栈地址栈（**子树的栈**），结合创建二叉树
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_212841.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_212841.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_213223.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_213223.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-23_213255.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-23_213255.jpg)
 
   
 
@@ -1588,15 +1588,15 @@
   - 包含线索的存储结构称作**线索链表**
   - 于其相应的二叉树：**线索二叉树**
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_195242.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_195242.jpg)
 
   - 粉红线是前驱，紫线是后继  先序化线索二叉树
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_195512.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_195512.jpg)
 
   - 中序化线索二叉树
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_195707.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_195707.jpg)
 
   - 后序化线索二叉树
 
@@ -1615,11 +1615,11 @@
   >
   > 3. 二叉树上的指针域是公用的，如果该二叉树没有左右子树，左指针域指向它的前驱，右指针域指向它的后继，也就就是说在节点上还要加上左右指针域的存放的是否为子树的地址的标志
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_202817.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_202817.jpg)
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_202903.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_202903.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_202947.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_202947.jpg)
 
   
 
@@ -1627,25 +1627,25 @@
 
   - 这样的双向链表上遍历就不需要栈
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_203258.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_203258.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_203346.jpg)
-
-  
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_203346.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_203431.jpg)
+  
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_203934.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_203431.jpg)
+
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_203934.jpg)
 
   ##### 如何建立线索二叉树？
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_204113.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_204113.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_204206.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_204206.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_204911.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_204911.jpg)
 
   ### 7.6 树和森林的表示方法
 
@@ -1654,23 +1654,23 @@
 
   1. 双亲表示法
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_205529.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_205529.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_205646.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_205646.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_205846.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_205846.jpg)
 
   
 
   2. 孩子链表表示法
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_205943.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_205943.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_210117.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_210117.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_210223.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_210223.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_210307.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_210307.jpg)
 
   
 
@@ -1678,17 +1678,17 @@
 
   3. 树的二叉链表  孩子兄弟表示法（存储表示法）
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_210743.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_210743.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_210853.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_210853.jpg)
 
   左孩子是孩子，右孩子是兄弟 ，这是将树变为二叉树（只包含左子树），这将会成为森林变二叉树的依据
 
   ##### 7.7.1森林和二叉树的对应关系
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_213202.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_213202.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-24_213446.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-24_213446.jpg)
 
   > 由二叉树的兄弟表示法，链表表示法（将兄弟连成一个横向，**左下侧是孩子，右下侧是兄弟**）
   >
@@ -1696,21 +1696,21 @@
 
   > 二叉树转为森林
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_191653.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_191653.jpg)
 
   ### 7.7 树和森林的遍历
 
   - 树的遍历：三条搜索路径，每个节点都要访问，每个节点只访问一次
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_192044.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_192044.jpg)
 
-   ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_192512.jpg)
+   ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_192512.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_192744.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_192744.jpg)
 
   - 树的先序 访问：先访问树的根节点，然后访问在根节点下的森林，然后先访问其中的第一棵树，使用先序遍历，访问完了，将下一棵树，也是这样进行访问的
 
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_193336.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_193336.jpg)
 
   - 树和森林的遍历
 
@@ -1722,25 +1722,25 @@
     >
     > 
     >
-    > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_200924.jpg)
+    > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_200924.jpg)
     >
     > 求取二叉树的深度，后序遍历，取最大，再+1
     >
     > 
     >
-    > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_202858.jpg)
+    > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_202858.jpg)
     >
     > - h1 是左子树森林森林，h2是右子树森林的深度
     >
-    > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_203832.jpg)
+    > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_203832.jpg)
 
     输出所有从根节点到叶子节点的路径（需要栈）
 
-    ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_210753.jpg)
+    ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_210753.jpg)
 
-    ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_211336.jpg)
+    ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_211336.jpg)
 
-    ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_212328.jpg)
+    ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_212328.jpg)
 
     - 因为树也可以用二叉树表示，所以这个路径是可以用于二叉树的   **【不对】**   因为二叉树表示叶子结点不是真正树的叶子结点
 
@@ -1752,24 +1752,24 @@
 
     这是对森林的遍历树结点 
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_213727.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_213727.jpg)
 
   
 
   建树的存储结构算法：
 
-    ![](/eshmarry/dong_markdown/blob/master/img/2019-10-25_215509.jpg)
+    ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-25_215509.jpg)
 
   - 左侧为父母节点，右侧为当前节点，按照层次结构从左往右
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_190124.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_190124.jpg)
 
   - 右下角是是一个队列盛放创建的已经创建结点，创建的结点进行保存
 
   先按层次遍历，创建结点
 
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_184745.jpg)
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_185013.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_184745.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_185013.jpg)
 
   ### 7.8哈夫曼树和哈夫曼编码
 
@@ -1779,21 +1779,21 @@
   - 树的路径长度：树中的每一个结点的路径长度之和
   - 树的带权路径长度：书中所有叶子节点带权路径长度之和
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_194151.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_194151.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_194327.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_194327.jpg)
 
   ##### 如何构造最优树
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_195246.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_195246.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_195335.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_195335.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_195407.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_195407.jpg)
 
   ##### 前缀编码
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_195443.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_195443.jpg)
 
   - 等长编码  A 00  B 01 C10 D 11  
   - 不等长编码：
@@ -1804,54 +1804,54 @@
 
   ### 8 图
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-30_193936.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-30_193936.jpg)
 
   #### 8.1 抽象数据类型图的定义
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_201430.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_201430.jpg)
 
   - 图上任何一个点都可以看做为顶点
   - 彼此之间地位是相等的
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_201658.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_201658.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_201828.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_201828.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_201912.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_201912.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_202102.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_202102.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_202252.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_202252.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_202449.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_202449.jpg)
 
   - 树的度为：子树的个数
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_202545.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_202545.jpg)
 
   - **简单路径：**从节点A到结点B的路径上所经过的结点不会重复出现
   - **回路（简单回路）**： 若A= B的话
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_202930.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_202930.jpg)
 
   - **连通图**：图中任意两个结点之间都有路径相通
   - **连通分量**：若**无向图**为**非连通图**，则途中各个极大联通子图称作此图的连通分量
   - **强连通图**：**有向图**中任意两个结点存在一条有向路径
   - **强连通分量**：是**有向图**的连通分量
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_203632.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_203632.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_204344.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_204344.jpg)
 
   - 创建一个图，要给出图的顶点的集合，和弧的集合
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_204635.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_204635.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_204754.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_204754.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_205023.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_205023.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_205130.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_205130.jpg)
 
   
 
@@ -1859,20 +1859,20 @@
 
   1. 图的数组存储表示
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_205351.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_205351.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_205624.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_205624.jpg)
 
   2. 图的邻接表存储表示
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_205913.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_205913.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_210052.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_210052.jpg)
 
   - 无向图：表示的边是重复的
   - 逆向邻接表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_211308.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_211308.jpg)
 
   - 在正向邻接表中能找到他指向别的顶点的的弧，在逆向邻接表中，能找指向它的弧，这样我希望你能够同时得到这两个 功能
 
@@ -1884,39 +1884,39 @@
 
   数据域2 为指针域为它指向别的弧的节点的地址
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_213332.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_213332.jpg)
 
   - 横向为指向别的，竖的为别的指向它的
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_212957.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_212957.jpg)
 
   4. 无向图的**邻接表多重表**存储表示
 
   - 将无向图多余的边用一条表示
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_214415.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_214415.jpg)
 
   #### 8.3图的遍历
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_214829.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_214829.jpg)
 
   - 深度优先遍历
 
   > 如果该图是连通图的话肯定能够遍历整个图
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-26_215200.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-26_215200.jpg)
 
   - 与树的先根遍历是一样的，但与树不相同的是，图的深度遍历有重复结点出现
   - DFS与树的不相同 检查邻接点是否被访问过，在每个节点上做上是否访问过的标志
   - 连通图
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_185805.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_185805.jpg)
 
   - 非连通图
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_190350.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_190350.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_190816.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_190816.jpg)
 
   - 就是访问每一个开始的点的邻接点
   - 通过深度优先遍历生成的右上的树称为深度优先生成树
@@ -1925,99 +1925,99 @@
 
   - 广度优先遍历
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_191348.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_191348.jpg)
 
   - 先访问一个结点，就把该结点的所有的邻接点访问完，然后就按照上面访问邻接点的顺序进行访问相应点的邻接点
   - 就是按照到访问最初访问节点的路径长短来进行访问，先访问路径为1的再访问路径为2的，就是到达最初访问节点的邻接点的路径为1的
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_192542.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_192542.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_193339.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_193339.jpg)
 
   
 
   - 题例：
   - 深度和广度都可以找到路径
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_202710.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_202710.jpg)
 
   - 广度可以找到最短的一条路径
   - 找最短路径：改进广度优先遍历，将广度优先遍历的队列进行改进，如下图，加上被指向的邻接点，到指向它的指针，这样就可以找到，是谁遍历到他的，这样可以找到源头，方便找最短路径
   - 队列在树的创建时候用到，使用树的二叉树表示的时候，加上一个表
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_203655.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_203655.jpg)
 
   - 第一次使用双向链表，而且是跳跃的
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_204321.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_204321.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_204442.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_204442.jpg)
 
   #### 8.4最小生成树
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_213132.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_213132.jpg)
 
   - 最小生成树是作用在：**无向网**
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_204743.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_204743.jpg)
 
   - 构成的是一个连同的无环的网
   - 算法一：普利姆算法：
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_205442.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_205442.jpg)
 
   > 从第一个顶点中从可选的边中选一个权值最小的边
   >
   > 是遍历邻接矩阵的
   >
-  > ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_210626.jpg)
+  > ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_210626.jpg)
   >
   > 在主键生成树上加节点，是每一次加进去连通的权值最小
 
   算法二：克鲁斯卡尔算法
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_212131.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_212131.jpg)
 
   - 点都先罗列出来，选取边选取权值最小的可选边，然后判断是否产生回路
   - 图上的权值进行排队是要先进行排序的
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_212540.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_212540.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_212638.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_212638.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-27_212308.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-27_212308.jpg)
 
   #### 8.5重（双）连通图和关节点
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_195255.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_195255.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_195421.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_195421.jpg)
 
   - 没有关节点的连通图为双连通图
   - 深度优先遍历
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_195815.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_195815.jpg)
 
   - 如果生出树有两个边证明，访问子树数据只能通过这个结点
   - 回边的作用，如果没有回边，没有直接连接到指定节点，则该结点不能直接与指定节点相连   例如 e可以与c相连，但不可以与a直接相连
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_200905.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_200905.jpg)
 
   - 这是看生成树根是不是根节点
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_201014.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_201014.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_201609.jpg)
-
-  
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_201609.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_203031.jpg)
+  
+
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_203031.jpg)
 
   - 原始排序  未加回边
 
@@ -2031,37 +2031,37 @@
 
   low（d） = {4，3，3} 就是三了
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_204055.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_204055.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_204459.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_204459.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_204736.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_204736.jpg)
 
   #### 8.6两点之间的最短路径问题
 
   - 从原点到其余各点的最短路径
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_205249.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_205249.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_205423.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_205423.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_205631.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_205631.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-28_210414.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-28_210414.jpg)
 
   
 
   - 问题二   **每一对顶点间最短路径：**
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_184749.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_184749.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_185036.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_185036.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_185114.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_185114.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_190845.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_190845.jpg)
 
   - 是通过逐渐在原先搭配中，添加中介，按照节点循序，例如
 
@@ -2071,48 +2071,48 @@
 
   - 解决有向图
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_191056.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_191056.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_191246.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_191246.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_191504.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_191504.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_195858.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_195858.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_200025.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_200025.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_192306.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_192306.jpg)
 
   - 求取有向图图中入度为0的结点
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_192437.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_192437.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_192535.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_192535.jpg)
 
   #### 8.8关键路径
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_201016.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_201016.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_201211.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_201211.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_201312.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_201312.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_201953.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_201953.jpg)
 
   - 关键路径是在拓扑排序上进行的
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_202830.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_202830.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_203352.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_203352.jpg)
 
   - 最早开始时间（ee）和最晚开始时间（el）**相同**的就是**关键事件**
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-29_203740.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-29_203740.jpg)
 
   ## 真题
 
@@ -2120,77 +2120,77 @@
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_191000.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_191000.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_191025.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_191025.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_191301.jpg)
-
-  
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_191301.jpg)
 
   
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_192534.jpg)
+  
+
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_192534.jpg)
 
   - 从空栈到空栈，
   - 考虑栈满的化考虑到如何实现的问题
-  - ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_192726.jpg)
+  - ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_192726.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_192510.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_192510.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_193055.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_193055.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_193419.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_193419.jpg)
 
   - 模拟栈
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_194337.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_194337.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_194517.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_194517.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_194640.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_194640.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_195855.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_195855.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_200819.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_200819.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_201331.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_201331.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_201517.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_201517.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_201747.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_201747.jpg)
 
   - 思路：可以通过该字符串的每一个去掉首字母后进行next函数运算，当取到next就函数值最长的就是，14个字符的话，要进行13次next函数计算，计算出，最长的next函数组中最大的数字
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_203200.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_203200.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-10-21_204222.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-10-21_204222.jpg)
 
   #### 非线性类
 
   - 遍历时所有非线性结构（二叉树，树，图，广义表）的操作基础
   - 不同的应用需要不同的搜索路径
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_201501.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_201501.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_201641.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_201641.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_202224.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_202224.jpg)
 
   - （上面的）使用的先序
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_202545.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_202545.jpg)
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_202713.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_202713.jpg)
 
   - disp是删除该子树所有孩子，包括释放
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_203255.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_203255.jpg)
 
   - 如果子树根节点的算术运算符的优先级低于跟的运算符的优先级，则需要加括号
 
-  ![](/eshmarry/dong_markdown/blob/master/img/2019-11-01_203559.jpg)
+  ![Image text](https://raw.githubusercontent.com/eshmarry/dong_markdown/master/img/2019-11-01_203559.jpg)
 
   - precede函数是判断运算符的优先级
